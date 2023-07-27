@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Hello Prashant Singh
 
 Hello India
 
 Hellow M1 file
+=======
+Hello Rohit
+>>>>>>> b1
+
+
+
+Thanks for the updation
